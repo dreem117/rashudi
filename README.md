@@ -1,0 +1,2 @@
+# rashudi
+kali linux
